@@ -1,26 +1,16 @@
 # Logic Circuit Simulator
+
 A logic circuit simulator made with [p5.js library](https://github.com/processing/p5.js), useful for educational use. It can be used to simulate combinational and sequential circuits.
 
-### Demo live
+## Demo live
+
 A live version is available [here](https://drendog.github.io/Logic-Circuit-Simulator/).
 
 ## Usage
 
 ### Demo
 
-![](demo.gif)
-
-### Tools
-
-![](simulator/img/pencil.svg) Edit - Move the components - Connect wires
-
-![](simulator/img/hand.png) Move the whole circuit
-
-![](simulator/img/trashcan.svg) Remove the component
-
-![](simulator/img/LogicInput.png) Logic Input (double click to change value)
-
-![](simulator/img/LogicOutput.png) Logic Output
+![demo gif animation](demo.gif)
 
 ## Set up for offline work
 
@@ -28,6 +18,7 @@ A live version is available [here](https://drendog.github.io/Logic-Circuit-Simul
 
 * [Nodejs](https://nodejs.org) or some local web server ([more info](https://github.com/processing/p5.js/wiki/Local-server))
 * git
+
 ```bash
 sudo apt-get install git
 ```
